@@ -29,13 +29,13 @@ Here are the steps to run this flutter project on your local computer.
    flutter run
    ```
 
-## Authors
+## Author
 
 - [Mhd Zulfikar Pinem](https://github.com/zulfikarpinem)
 
 ## Contact
 
-Email : zulfikarm022@gmail.com
+- Email : zulfikarm022@gmail.com
 
 ## License
 
