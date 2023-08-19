@@ -68,7 +68,7 @@ class NextForecast extends StatelessWidget {
                       height: 20,
                     );
                   },
-                  itemCount: data.length,
+                  itemCount: data.length - 1,
                   shrinkWrap: true,
                   controller: scrollForecast,
                 ),
