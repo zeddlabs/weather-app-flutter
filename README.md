@@ -11,9 +11,9 @@ Here are the steps to run this flutter project on your local computer.
 1. Give a star to this repo.
 2. Clone this repo.
    ```sh
-   git clone https://github.com/zulfikarpinem/weather-app-flutter.git
+   git clone https://github.com/zeddlabs/weather-app-flutter.git weather-app
    ```
-3. Change current working dir to `/weather-app-flutter`.
+3. Change current working dir to `/weather-app`.
 4. Get all dependencies.
    ```sh
    flutter pub get
